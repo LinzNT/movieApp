@@ -10,6 +10,7 @@ function App() {
       </header>
       <main>
         <SearchMovies />
+        <h4>This product uses the TMDb API but is not endorsed or certified by TMDb.</h4>
       </main>
     </div>
   );
